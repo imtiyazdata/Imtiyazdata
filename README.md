@@ -1,4 +1,4 @@
-# Hi I am Imtiyaz Ahmed
+# Hi, I'm Imtiyaz Ahmed
 I have honed skills SQL, Python, data visualization,<br>NumPy, Excel, and statistics.<br>and have  hands on experience in relevant analytics projects .<br>I am passionate about data analytics and its applications across industries, <br>and I am eager to bring my skills and experience to a role like this, <br>where I can contribute meaningfully while continuing to grow professionally<br>
 
 
