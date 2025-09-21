@@ -1,5 +1,6 @@
 # Hi, I'm Imtiyaz Ahmed
-🚀 Passionate AI/ML/Data Scientist with strong skills in machine learning, deep learning, and data analytics, driving impactful solutions.
+🚀 Passionate AI/ML/Data Scientist with strong skills in machine learning,
+deep learning, and data analytics, driving impactful solutions.
 
 
 ## 🌐 Socials:
